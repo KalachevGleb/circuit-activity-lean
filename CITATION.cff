@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite the paper below."
+title: "Bounds on the activity of Boolean circuits implementing Boolean operators: Lean 4 formalization"
+type: software
+authors:
+  - family-names: Kalachev
+    given-names: Gleb
+    affiliation: "Lomonosov Moscow State University"
+license: Apache-2.0
+repository-code: "https://github.com/KalachevGleb/circuit-activity-lean"
+keywords:
+  - Lean 4
+  - Mathlib
+  - Boolean circuits
+  - circuit power
+  - switching activity
+  - Shannon function
+preferred-citation:
+  type: article
+  title: "Bounds on the Activity of Boolean Circuits Implementing Boolean Operators"
+  authors:
+    - family-names: Kalachev
+      given-names: Gleb
+      affiliation: "Lomonosov Moscow State University"
+  journal: "Intelligent Systems. Theory and Applications"
+  languages:
+    - rus
+  status: in-press
